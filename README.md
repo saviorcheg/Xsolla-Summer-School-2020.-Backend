@@ -1,1 +1,2 @@
-# Xsolla-Summer-School-2020.-Backend
+# Xsolla Summer School 2020 Backend
+---
